@@ -1,0 +1,15 @@
+{
+  "name": "skyline-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Skyline - minimal theme with a combination of three colors",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/akashbdj/skyline-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
