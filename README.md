@@ -1,3 +1,4 @@
 # Skyline
 
-[[https://github.com/akashbdj/skyline-syntax/blob/master/images/skyline.png|alt=skyline]]
+![Skyline](./images/skyline.png?raw=true "Skyline")
+[[./images/skyline.png|alt=skyline]]
